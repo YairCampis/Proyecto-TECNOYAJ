@@ -1,0 +1,28 @@
+h1{
+    background-color: red;
+}
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+    padding-top: 56px;
+}
+
+.jumbotron {
+    background-image: url('tu-imagen-de-fondo.jpg');
+    background-size: cover;
+    color: #ee8181;
+    text-align: center;
+    padding: 150px 0;
+}
+
+#servicios {
+    padding: 50px 0;
+}
+
+#contacto {
+    padding: 50px 0;
+}
+
+footer {
+    margin-top: 50px;
+}
